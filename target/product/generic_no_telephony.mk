@@ -20,7 +20,6 @@
 PRODUCT_PACKAGES := \
     Bluetooth \
     Gallery2 \
-    LockClock \
     OneTimeInitializer \
     Provision \
     SystemUI \
