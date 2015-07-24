@@ -31,7 +31,7 @@ PRODUCT_PACKAGES += \
 # Additional settings used in all AOSP builds
 PRODUCT_PROPERTY_OVERRIDES := \
     ro.com.android.dateformat=MM-dd-yyyy \
-    ro.config.ringtone=Titania.ogg \
+    ro.config.ringtone=Carme.ogg \
     ro.config.notification_sound=Tethys.ogg \
     ro.config.alarm_alert=Osmium.ogg
 
